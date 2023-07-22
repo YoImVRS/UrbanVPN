@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main-wrap{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 16px;
+}
+
+.content{
+    display: flex;
+}
+
+.red-box{
+    width: 194px;
+    height: 176px;
+    border-radius: 8px;
+    background-color: #ff0066;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red-box > div {
+    width: 64px;
+    height: 64px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red-box img {
+    width: 32px;
+    margin-top: 2px;
+}
+
+.unsafe-title{
+    font-size: 16px;
+    font-weight: bold;
+    color: #000000;
+    margin: 0;
+}
+
+.unsafe-text{
+    font-size: 16px;
+    color: #000000;
+}
+
+.unsafe-text > span{
+    font-weight: 600;
+}
+
+.button-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.button-wrap > div{
+    width: 50%;
+}
+
+.main-btn{
+    width: 184px;
+    height: 48px;
+    border-radius: 8px;
+    border: solid 1px #c1c1c1;
+    font-size: 16px;
+    text-align: center;
+    color: #2e2e2e;
+    background: white;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+}
+
+.main-btn.primary{
+    background-color: #49d47a;
+    border: none;
+    font-size: 16px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.main-btn:focus{
+    outline: none;
+}
+
+.main-btn > a {
+    text-decoration: none;
+    color: white;
+    vertical-align: middle;
+    line-height: 48px;
+}
+
+.small-text {
+    font-size: 12px;
+    text-align: center;
+    color: #2e2e2e;
+    margin: 0;
+    margin-top: 17px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+#muteCheckbox {
+  vertical-align: middle;
+}
