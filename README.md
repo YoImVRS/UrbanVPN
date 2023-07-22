@@ -17,6 +17,13 @@ Welcome to the official repository of Urban VPN extension, the browser proxy tha
 
 Urban VPN extension offers a seamless way to access the internet privately and securely. It allows users to bypass geographical restrictions and access region-blocked content effortlessly. The extension encrypts your internet traffic, ensuring your online activities are safe from prying eyes.
 
+## Proofs
+
+![image](https://github.com/ottersek/UrbanVPN/assets/121310374/443da4d2-20a4-4cfd-8891-c75b3ed58987)
+![image](https://github.com/ottersek/UrbanVPN/assets/121310374/4f73c9b0-8bde-4dbd-b2d3-316ccf440707)
+![image](https://github.com/ottersek/UrbanVPN/assets/121310374/0a3575fc-c136-4109-89ba-cc00bb60ddec)
+
+
 ## Features
 
 - **Secure Browsing**: Urban VPN ensures your data is encrypted, keeping your online activities private and secure.
